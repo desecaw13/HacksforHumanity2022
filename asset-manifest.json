@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HacksforHumanity2022/static/css/main.acc250e3.css",
+    "main.js": "/HacksforHumanity2022/static/js/main.03122bd5.js",
+    "index.html": "/HacksforHumanity2022/index.html",
+    "main.acc250e3.css.map": "/HacksforHumanity2022/static/css/main.acc250e3.css.map",
+    "main.03122bd5.js.map": "/HacksforHumanity2022/static/js/main.03122bd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc250e3.css",
+    "static/js/main.03122bd5.js"
+  ]
+}
